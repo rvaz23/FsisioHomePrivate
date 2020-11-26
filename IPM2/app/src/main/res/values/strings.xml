@@ -1,0 +1,29 @@
+<resources>
+    <string name="app_name">FisioHome</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_exercises">Exercicios</string>
+    <string name="menu_categorias">Categorias</string>
+    <string name="menu_myTrainings">Meus Treinos</string>
+    <string name="menu_trainings">Treinos</string>
+    <string name="menu_favorites">Favoritos</string>
+
+
+    <string name="email">Email</string>
+    <string name="password">Palavra Passe</string>
+    <string name="loggedin">Manter Sessão Iniciada</string>
+    <string name="login">Login</string>
+    <string name="createaccount">Criar Conta</string>
+    <string name="username">Username</string>
+    <string name="age">Idade</string>
+    <string name="register">Registar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
