@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "28636429572",
+    "firebase_url": "https://fisiohome-8399a-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "fisiohome-8399a",
+    "storage_bucket": "fisiohome-8399a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:28636429572:android:906e00afc4a20e95b66451",
+        "android_client_info": {
+          "package_name": "pt.fct.ipm2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "28636429572-dhk78185gttgujsn6b3mko4mnhrolsfn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "pt.fct.ipm2",
+            "certificate_hash": "985b460ffebc1faa552bfefd295b3e81684b067b"
+          }
+        },
+        {
+          "client_id": "28636429572-e5iukrglksgg24s7d9spt5jkate3t2om.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCo3MK1v7YF-b_Axq470sfgzBm2BDDg4-E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "28636429572-e5iukrglksgg24s7d9spt5jkate3t2om.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
